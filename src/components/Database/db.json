@@ -1,0 +1,103 @@
+{
+  "auth": [
+    {
+      "id": "70ba",
+      "fullName": "Yuvraj Ganshi",
+      "email": "yuvrajganshi@gmail.com",
+      "password": "Aceinfo@2531",
+      "role": "admin"
+    },
+    {
+      "id": "5e9a",
+      "fullName": "Balraj Kumar",
+      "email": "balrajkumar@gmail.com",
+      "password": "Aceinfo@123",
+      "role": "seller"
+    }
+  ],
+  "dashboardStats": [
+    {
+      "month": "Jan",
+      "sales": 4000,
+      "users": 240
+    },
+    {
+      "month": "Feb",
+      "sales": 3000,
+      "users": 139
+    },
+    {
+      "month": "Mar",
+      "sales": 5000,
+      "users": 380
+    },
+    {
+      "month": "Apr",
+      "sales": 4780,
+      "users": 390
+    },
+    {
+      "month": "May",
+      "sales": 5890,
+      "users": 480
+    },
+    {
+      "month": "Jun",
+      "sales": 6390,
+      "users": 520
+    }
+  ],
+  "categoryShare": [
+    {
+      "name": "Electronics",
+      "value": 400
+    },
+    {
+      "name": "Fashion",
+      "value": 300
+    },
+    {
+      "name": "Grocery",
+      "value": 300
+    },
+    {
+      "name": "Other",
+      "value": 200
+    }
+  ],
+  "recentOrders": [
+    {
+      "id": "ORD001",
+      "customer": "Aman",
+      "amount": 1200,
+      "status": "Delivered"
+    },
+    {
+      "id": "ORD002",
+      "customer": "Riya",
+      "amount": 2200,
+      "status": "Pending"
+    }
+  ],
+  "settings": {
+    "item": {
+      "general": {
+        "appName": "My CMS",
+        "timezone": "Asia/Kolkata",
+        "currency": "INR"
+      },
+      "profile": {
+        "name": "Admin",
+        "email": "admin@gmail.com"
+      },
+      "security": {
+        "twoFactor": false
+      },
+      "theme": {
+        "mode": "light",
+        "primaryColor": "#6366F1"
+      }
+    },
+    "theme": "light"
+  }
+}
