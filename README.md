@@ -1,4 +1,5 @@
 # 🧑‍💻 Content Management System (CMS)
+![Headless CMS](https://github.com/user-attachments/assets/f2c5620a-f75d-4009-91b0-756d1898f21f)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
