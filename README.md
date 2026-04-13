@@ -30,3 +30,14 @@ A dynamic CMS dashboard that allows admin users to manage pages, routes, and con
 - Backend integration
 - Content versioning
 - Analytics dashboard
+
+---
+
+## 🚀 Installation
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/yuvraj0651/Headless-CMS-Modified.git
+cd Headless-CMS-Modified
+npm install
+npm run dev
